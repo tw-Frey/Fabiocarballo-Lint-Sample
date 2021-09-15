@@ -1,2 +1,2 @@
 include ':app', ':rules'
-rootProject.name='lint'
+rootProject.name='Fabiocarballo-Lint-Sample'
